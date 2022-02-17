@@ -5,7 +5,7 @@ Fast and useful application. This is the first project that I wrote on my own an
 
 ## Links
 
-- Live Site URL: 
+- Live Site URL: https://mustafajohnny.github.io/Quiz-App/
 
 
 ## Built with
