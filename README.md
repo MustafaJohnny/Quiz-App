@@ -6,7 +6,7 @@ Fast and useful application. This is the first project that I wrote on my own an
 
 ## Secreenshots
 
-![app](https://github.com/MustafaJohnny/Quiz-App/blob/master/screenshot.jpg?raw=true)
+![app](https://github.com/MustafaJohnny/Quiz-App/blob/master/screenshot.png?raw=true)
 
 ## Links
 
