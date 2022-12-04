@@ -1,4 +1,4 @@
-# Quiz App - Frontend Project
+# Quiz App - Frontend Practical Project
 
 ## Overview
 
